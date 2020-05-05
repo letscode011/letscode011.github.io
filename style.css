@@ -1,0 +1,43 @@
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    background-color: transparent;
+    text-align: center;
+    color: gold;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: seashell;
+
+}
+h2{
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: gold;
+}
+table{
+ border: 1;
+ border-style: dashed;
+ text-align: center;
+ margin-left: auto;
+ margin-right: auto;
+ border-color: olive;
+ color: snow;
+}
+video{
+    
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    width: 500px;
+}
+body{
+    background-image: url("guitar.jpg");
+    background-color: black;
+    background-repeat: repeat-x;
+    background-position: left;
+    background-size: contain;
+}
